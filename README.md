@@ -32,5 +32,14 @@ En este apartado se requiere el conocimiento en varias herramientas y metodolog�
 - Git y GitHub
 - Metodologías Ágiles
 - JIRA
-- Integración Continua
+- Integración continua
 - Testing manual y automatizado
+- Docker
+
+
+## Backend Technical
+- SOAP
+- REST
+- GraphQL
+- Authentication Methods
+- Cookies
