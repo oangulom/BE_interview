@@ -26,3 +26,11 @@ Se recomienda practicar dirariamente cada respuesta grabándose, revisando la gr
 - Se pueden incluir preguntas hacia el entrevistador en el momento en que se considere necesario.
 - Manejar el humor es delicado, pero al lograrlo, se puede convertir en una entrevista ganadora.
 
+## Technical Skills
+En este apartado se requiere el conocimiento en varias herramientas y metodologías empleadas en la actualidad desde el momento de la planeación, desarrollo e integración:
+
+- Git y GitHub
+- Metodologías Ágiles
+- JIRA
+- Integración Continua
+- Testing manual y automatizado
