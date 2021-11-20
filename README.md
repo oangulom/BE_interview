@@ -46,3 +46,7 @@ En este apartado se requiere el conocimiento en varias herramientas y metodolog√
 - OOP
 - Functional Programming
 - Arquitectura de datos
+- Microservicios
+- Sockets
+- Bases de datos relacionales y no relacionales
+- Principios SOLID
