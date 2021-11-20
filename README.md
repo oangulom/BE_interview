@@ -26,9 +26,10 @@ Se recomienda practicar dirariamente cada respuesta grabándose, revisando la gr
 - Se pueden incluir preguntas hacia el entrevistador en el momento en que se considere necesario.
 - Manejar el humor es delicado, pero al lograrlo, se puede convertir en una entrevista ganadora.
 
-## Technical Skills
+## Hard Skills
 En este apartado se requiere el conocimiento en varias herramientas y metodologías empleadas en la actualidad desde el momento de la planeación, desarrollo e integración:
 
+### Metodologías y herramientas
 - Git y GitHub
 - Metodologías Ágiles
 - JIRA
@@ -36,10 +37,12 @@ En este apartado se requiere el conocimiento en varias herramientas y metodolog�
 - Testing manual y automatizado
 - Docker
 
-
-## Backend Technical
+## Conocimientos técnicos
 - SOAP
 - REST
 - GraphQL
 - Authentication Methods
 - Cookies
+- OOP
+- Functional Programming
+- Arquitectura de datos
