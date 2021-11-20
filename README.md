@@ -35,7 +35,8 @@ En este apartado se requiere el conocimiento en varias herramientas y metodolog�
 - JIRA
 - Integración continua
 - Testing manual y automatizado
-- Docker
+- Contenedores: Docker - Kubernetes
+- Linters
 
 ### Conocimientos técnicos
 - SOAP
@@ -43,10 +44,11 @@ En este apartado se requiere el conocimiento en varias herramientas y metodolog�
 - GraphQL
 - Authentication Methods
 - Cookies
-- OOP
-- Functional Programming
-- Arquitectura de datos
-- Microservicios
 - Sockets
 - Bases de datos relacionales y no relacionales
+- OOP
+- Programación funcional
+- Patrones de diseño
+- Arquitectura de datos
+- Microservicios
 - Principios SOLID
