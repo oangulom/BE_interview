@@ -37,7 +37,7 @@ En este apartado se requiere el conocimiento en varias herramientas y metodolog�
 - Testing manual y automatizado
 - Docker
 
-## Conocimientos técnicos
+### Conocimientos técnicos
 - SOAP
 - REST
 - GraphQL
