@@ -10,6 +10,8 @@ Esta entrevista es normalmente el primero contacto que se tiene, y en ella se pr
 - Cuál ha sido el reto más grande y cómo lo superaste?
 - Has sido alguna vez jefe de equipo? Cuáles han sido los retos más grandes que has tenido en ese rol?
 - Cuál es tu mayor defecto?
+- Tener a la mano una idea precisa del salario que se aspira obtener.
+- Conocer si el trabajo se va relizar remotamente, o necesita que la persona se deplace a otra ciudad.
 
 En cada una de las respuestas, se busca encontrar un candidato que sepa mostrar un proceso de crecimiento interesante y que aquellos aspectos que pueden sonar negativos, se muestren como fortalezas. Se recomienda tener en cuenta los siguientes aspectos al contestar:
 
